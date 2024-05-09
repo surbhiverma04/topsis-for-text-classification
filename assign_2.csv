@@ -1,0 +1,6 @@
+MODEL,ACCURACY,AP,F1
+jamesgpt1/sf_model_e5,70.851,33.779,64.97
+BAAI/bge-large-en-v1.5,75.851,38.566,69.694
+Cohere/Cohere-embed-english-v3.0,81.299,46.182,75.477
+intfloat/e5-mistral-7b-instruct,78.687,41.715,72.372
+WhereIsAI/UAE-Large-V1,75.552,38.264,69.41
